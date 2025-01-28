@@ -1,5 +1,5 @@
 # Exclusive RG-A Momentum Corrections
-Momentum Corrections developed using exclusive pion reactions.
+Momentum Corrections developed using exclusive pion reactions in the Central Detector.
 
 Main Correction Code Location: Data_Files/File_Creation_Final_Momentum_Corrections_Github.py
 
@@ -13,6 +13,9 @@ Main Notebook Used to Evaluate Files created with the above python code: Momentu
 2) Start Pass2 Corrections for the Fall 2018 Data once available
 
 ## Update Notes:
+As of 1-28-2025:
+    * Forked from Richard's code for the Forward Detector
+
 As of 10-27-2023:
     * Updated the Exclusivity Cuts in the Spring 2019 datasets and made a new default Missing Mass Cut for all Single Pion Files
         * The default cut filters all events with an uncorrected missing mass of more than 1.8 GeV
